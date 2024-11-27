@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6a1842f-e7be-4def-8bce-8e24bd59ca9f" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BufferedFileRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileCopyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileInfoExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SerializationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackQueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_14.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pQ3auS1z45ygpGoqloda9nGOOp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.ArrayListExample.executor": "Run",
+    "애플리케이션.BufferedFileRead.executor": "Run",
+    "애플리케이션.FileCopyExample.executor": "Run",
+    "애플리케이션.FileInfoExample.executor": "Run",
+    "애플리케이션.Lotto.executor": "Run",
+    "애플리케이션.MapExample.executor": "Run",
+    "애플리케이션.Question1.executor": "Run",
+    "애플리케이션.Question3.executor": "Run",
+    "애플리케이션.Question4.executor": "Run",
+    "애플리케이션.Question5.executor": "Run",
+    "애플리케이션.SerializationExample.executor": "Run",
+    "애플리케이션.StackQueueExample.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\tour_java\week_14" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="b6a1842f-e7be-4def-8bce-8e24bd59ca9f" name="변경" comment="" />
+      <created>1732684541946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732684541946</updated>
+      <workItem from="1732684542844" duration="4026000" />
+      <workItem from="1732688826258" duration="2748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
